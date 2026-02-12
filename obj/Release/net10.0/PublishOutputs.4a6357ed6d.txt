@@ -1,0 +1,9 @@
+C:\Users\Sameer Ullah\Downloads\AwsApi\my-publish-folder\AwsApi.exe
+C:\Users\Sameer Ullah\Downloads\AwsApi\my-publish-folder\appsettings.Development.json
+C:\Users\Sameer Ullah\Downloads\AwsApi\my-publish-folder\appsettings.json
+C:\Users\Sameer Ullah\Downloads\AwsApi\my-publish-folder\AwsApi.dll
+C:\Users\Sameer Ullah\Downloads\AwsApi\my-publish-folder\AwsApi.deps.json
+C:\Users\Sameer Ullah\Downloads\AwsApi\my-publish-folder\AwsApi.runtimeconfig.json
+C:\Users\Sameer Ullah\Downloads\AwsApi\my-publish-folder\AwsApi.pdb
+C:\Users\Sameer Ullah\Downloads\AwsApi\my-publish-folder\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Sameer Ullah\Downloads\AwsApi\my-publish-folder\Microsoft.OpenApi.dll

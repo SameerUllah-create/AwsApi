@@ -1,0 +1,15 @@
+C:\Users\Sameer Ullah\Downloads\AwsApi\publish-v8\AwsApi.exe
+C:\Users\Sameer Ullah\Downloads\AwsApi\publish-v8\my-publish-folder\web.config
+C:\Users\Sameer Ullah\Downloads\AwsApi\publish-v8\appsettings.Development.json
+C:\Users\Sameer Ullah\Downloads\AwsApi\publish-v8\appsettings.json
+C:\Users\Sameer Ullah\Downloads\AwsApi\publish-v8\my-publish-folder\appsettings.Development.json
+C:\Users\Sameer Ullah\Downloads\AwsApi\publish-v8\my-publish-folder\appsettings.json
+C:\Users\Sameer Ullah\Downloads\AwsApi\publish-v8\my-publish-folder\AwsApi.deps.json
+C:\Users\Sameer Ullah\Downloads\AwsApi\publish-v8\my-publish-folder\AwsApi.runtimeconfig.json
+C:\Users\Sameer Ullah\Downloads\AwsApi\publish-v8\my-publish-folder\AwsApi.staticwebassets.endpoints.json
+C:\Users\Sameer Ullah\Downloads\AwsApi\publish-v8\AwsApi.dll
+C:\Users\Sameer Ullah\Downloads\AwsApi\publish-v8\AwsApi.deps.json
+C:\Users\Sameer Ullah\Downloads\AwsApi\publish-v8\AwsApi.runtimeconfig.json
+C:\Users\Sameer Ullah\Downloads\AwsApi\publish-v8\AwsApi.pdb
+C:\Users\Sameer Ullah\Downloads\AwsApi\publish-v8\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Sameer Ullah\Downloads\AwsApi\publish-v8\Microsoft.OpenApi.dll
